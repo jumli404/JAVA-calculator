@@ -20,7 +20,6 @@ public class cal {
                 case 2:
                     float an = f - sec;
                     System.out.println(an);
-
                     break;
                 case 3:
                     float a = f * sec;
